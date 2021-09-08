@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erik Hafke
-- 👀 I’m interested in hiking, fly fishing, working out, traveling the world and of course, my family.
+- 👀 I’m interested in hiking, fly fishing, exercising, beer, traveling the world and of course, my family.
 - 🌱 I’m currently learning and enhancing my skills in Python.
 - 💞️ I’m looking to collaborate on any projects that will help me develop as an entry level developer.
 - 📫 How to reach me: Email- hafke88@gmail.com
